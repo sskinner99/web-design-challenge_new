@@ -1,3 +1,19 @@
 body {
-    background-color: cyan;
+    background-color: #24ccff;
+}
+
+#landing-image{
+       width: 100%;
+
+}
+
+.vis-image{
+        width: 100%;
+
+}
+.big-row{
+
+    margin-left: 0;
+    margin-right: 0;
+
 }
